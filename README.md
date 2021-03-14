@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dongdori
+- 👀 I’m interested in Artificial Intelligence and Data Visualization.
+- 🌱 I’m currently majoring in Statistics in Korea University.
+- 💞️ I’m looking to collaborate on ...
+- 📫 email : mando03@korea.ac.kr / instagram id : dong_jun32
