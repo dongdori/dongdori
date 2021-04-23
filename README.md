@@ -1,4 +1,4 @@
 -  Hi, I’m Lee Dong Jun
--  I’m interested in Artificial Intelligence, Data Visualization and Algorithm.
--  I’m currently majoring in Statistics in Korea University.
+-  I’m interested in Artificial Intelligence and Algorithm.
+-  I’m currently majoring Statistics in Korea University.
 -  E-mail : mando03@korea.ac.kr
