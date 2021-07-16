@@ -1,4 +1,4 @@
 -  Hi, I’m Lee Dong Jun
--  I’m interested in Natural Language Processing and Computer Vision
+-  I’m interested in Natural Language Processing and Generative Modeling
 -  I’m currently majoring Statistics in Korea University.
 -  E-mail : mando03@korea.ac.kr
